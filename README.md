@@ -8,7 +8,7 @@
 
 ### Usage
 
-`./minesweeper <board size> <number of mines>`
+`./msweep <board size> <number of mines>`
 
 #### Controls
 
